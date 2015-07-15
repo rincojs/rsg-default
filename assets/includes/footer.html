@@ -1,3 +1,9 @@
 <footer>
-	<a href="{{user.github}}">{{user.name}}</a>
+	<nav>
+		{{#each menu.items}}
+		  <a href="{{link}}">{{name}}</a></h2>
+		{{/each}}
+	</nav>
+	<h3>About the creator</h3>
+	I'm <a href="{{user.github}}">{{user.name}}</a>, creator of rincojs organization, trying to help us to improve our workflow.
 </footer>

@@ -3,9 +3,32 @@
 body {
 	color:#555;
 	text-align: center;
-	padding-top: 50px;
+	font-size: 20px;
+	background: #fefefe;
+	padding:30px;
+
+	header {
+		padding: 30px;
+	}
 
 	h1{
-		color:#222;
+		color:#444;
+		font-size: 40px;
+	}
+	pre {
+		background: #444;
+		border-radius: 10px;
+		max-width: 600px;
+		margin:auto;
+		padding: 30px;
+		text-align: left;
+		color:#ccc;
+	}
+	footer {
+		padding: 30px;
+	}
+	a {
+		color:#666;	
+
 	}
 }
