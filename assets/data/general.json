@@ -2,11 +2,11 @@
 	"items": [
 		{
 			"link": "https://github.com/rincojs/rinco-staticgen",
-			"name": "home"
+			"name": "Github"
 		},
 		{
-			"link": "/doc",
-			"name": "documentation"
+			"link": "https://github.com/rincojs/rinco-staticgen/blob/master/README.md",
+			"name": "Documentation"
 		}
 	]
 }
