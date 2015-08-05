@@ -1,1 +1,1 @@
-# tpl-rinco-staticgen-default
+# rsg-default
