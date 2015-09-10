@@ -1,11 +1,11 @@
 {
 	"items": [
 		{
-			"link": "https://github.com/rincojs/rinco-staticgen",
+			"link": "https://github.com/rincojs/rinco-sg",
 			"name": "Github"
 		},
 		{
-			"link": "https://rincojs.com/sg/",
+			"link": "http://rincojs.com/sg/",
 			"name": "Documentation"
 		}
 	]

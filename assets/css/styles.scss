@@ -2,13 +2,17 @@
 
 body {
 	text-align: center;
-	font-size: 16px;
+	font-size: 20px;
 	padding:30px;
-	background-color: #323232;
-	color: #ccc;
+	background-color: #fefefe;
+	color: #555;
 
 	a {
 		text-decoration: none;
+		margin: 0 5px;
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 
 	header {
@@ -16,32 +20,13 @@ body {
 	}
 
 	h1 {
-		color:#EEA74D;
 		font-size: 40px;
 	}
 	footer {
 		padding: 30px;
 	}
 	a {
-		color:#ccc;
+		color:#51AAFF;
 
-	}
-	.logo-wrapper {
-		position:relative;
-		width:300px;
-		margin:auto;
-		img {
-			position: relative;
-		}
-		&:before {
-		    content:" ";
-		    display:block;
-		    position: absolute;
-		    box-shadow: 0 0 175px 115px #1F1F1F;
-		    margin:auto;
-		    top:100px;
-		    top: 115px;
-		    left: 131px;
-		}
 	}
 }
